@@ -1,11 +1,12 @@
 {
     "name": "quaken",
     "displayName": "quaken",
-    "description": "qa managment plugin",
+    "description": "qa management plugin",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.28.0"
     },
+    "publisher": "klumba12",
     "categories": [
         "Other"
     ],
